@@ -1,0 +1,9 @@
+scikit-learn
+seaborn
+opencv-python
+graphviz
+pydotplus
+matplotlib
+numpy
+torch
+tensorflow
