@@ -44,3 +44,15 @@ After installation, add Graphviz's `bin` directory to your system's PATH environ
   ```plaintext
   C:\Program Files\Graphviz\bin
    ```
+# Running the Project
+
+Once the setup is complete, you can use the provided notebooks to train and evaluate the models:
+
+- **Dataset_Generator.ipynb**: Run this notebook to generate a synthetic MNIST dataset using the CVAE model.
+- **CNN.ipynb**: Train and evaluate a standalone CNN model.
+- **DT.ipynb**: Train and evaluate a standalone Decision Tree model.
+- **CNN_DT.ipynb**: Create, train, and evaluate the hybrid CNN-DT model, and visualize its interpretability features.
+
+The project includes high-resolution visualizations and saliency maps to illustrate the decision-making processes of each model, providing insights into how CNN and DT models can be combined for effective and interpretable AI solutions.
+
+For access to the code and model files, please refer to the relevant files in this repository.
