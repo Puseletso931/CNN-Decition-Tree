@@ -1,3 +1,11 @@
+# Project Overview
+
+This project implements a hybrid Convolutional Neural Network (CNN) and Decision Tree (DT) model for image classification, combining the robust feature extraction of CNNs with the interpretability of DTs. The project demonstrates how to balance model accuracy with transparency, making the model suitable for applications requiring explainable AI. Users can explore the model architecture, train and evaluate the hybrid model, and visualize decision pathways to gain insights into how predictions are made.
+
+The following instructions outline the setup process, including installing dependencies and configuring Graphviz (for Windows users), to ensure smooth execution of the project.
+
+---
+
 # Project Setup
 
 ## Step 1: Install Requirements
